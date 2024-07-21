@@ -5,3 +5,4 @@ This is the repository which contains the programs which I performed during my j
 3.Print hollow rectangle pattern using * (HollowRectanglePattern.java) <br>
 4.Print half diamond pattern using * (HalfDiamondPattern.java) <br>
 5.Print rectangle pattern ( RectanglePattern.java ) <br>
+6.Print pyramid pattern using * ( PyramidPattern.java ) <br>
