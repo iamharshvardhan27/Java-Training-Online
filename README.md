@@ -7,4 +7,4 @@ This is the repository which contains the programs which I performed during my j
 5.Print rectangle pattern ( RectanglePattern.java ) <br>
 6.Print pyramid pattern using * ( PyramidPattern.java ) <br>
 7.Print hollow half inverted pyramid pattern using * ( PyramidPattern2.java ) <br>
-8.Print palindromic right-angled triangle pattern using characters.
+8.Print palindromic right-angled triangle pattern using characters. (PalindromicRightAngledTriangle.java)
