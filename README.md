@@ -11,5 +11,5 @@ This is the repository which contains the programs which I performed during my j
 7.Print hollow half inverted pyramid pattern using * ( PyramidPattern2.java ) <br>
 8.Print palindromic right-angled triangle pattern using characters. (PalindromicRightAngledTriangle.java) <br>
 ---------------------------------------------------------------------------------------------------------------
-- These are all string problems. 
-1.Given a string, reverse the given string in-place and then print it. (ReverseString.java)
+- These are all string problems. <br>
+1.Given a string, reverse the given string in-place and then print it. (ReverseString.java) <br>
