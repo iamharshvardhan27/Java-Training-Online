@@ -14,4 +14,5 @@ This is the repository which contains the programs which I performed during my j
 - These are all string problems. <br>
 1.Given a string, reverse the given string in-place and then print it. (ReverseString.java) <br>
 2.Implement Insertion Sort and print the index at which the ith element gets inserted [i>=1]. (InsertionSort.java) <br>
+3.Implement Selection Sort and print the index which gets swapped at each step.
  
