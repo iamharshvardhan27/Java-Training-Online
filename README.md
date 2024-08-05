@@ -15,6 +15,7 @@ This is the repository which contains the programs which I performed during my j
 1.Given a string, reverse the given string in-place and then print it. (ReverseString.java) <br>
 2.Given a string, print all the letters present at odd index, followed by the letters present at even index. (StringOddEven.java) <br>
 3.Given a sentence S and a character ch, count occurrence of the given character in the sentence (OccurancesChar.java) <br>
+4.Given a string, check if it contains only vowels.
 ---------------------------------------------------------------------------------------------------------------
 - These are all sorting problems. <br>
 1.Implement Insertion Sort and print the index at which the ith element gets inserted [i>=1]. (InsertionSort.java) <br>
