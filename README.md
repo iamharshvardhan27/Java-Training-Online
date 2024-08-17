@@ -17,7 +17,7 @@ This is the repository which contains the programs which I performed during my j
 3.Given a sentence S and a character ch, count occurrence of the given character in the sentence (OccurancesChar.java) <br>
 4.Given a string, check if it contains only vowels. (VowelsString.java) <br>
 5.Given a string, check if it contains only digits. (DigitStrings.java) <br>
-6.Given a string, print count of vowels and consonants in the string. <br>
+6.Given a string, print count of vowels and consonants in the string. (VowelsConsonent.java) <br>
 7.Given a string, toggle the case of each character in the given string. <br>
 ---------------------------------------------------------------------------------------------------------------
 - These are all sorting problems. <br>
